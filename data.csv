@@ -1,0 +1,6 @@
+age,salary,gender,city,purchased
+25,50000,Male,Chennai,0
+30,60000,Female,Bangalore,1
+35,,Female,Delhi,1
+40,80000,Male,Mumbai,0
+,70000,Male,Chennai,1
