@@ -30,3 +30,4 @@ Overall, this script provides a clean, modular, and scalable approach to buildin
 
 output of the task:
 
+<img width="1060" height="670" alt="Image" src="https://github.com/user-attachments/assets/9e4cdc56-e67a-4362-a746-50a6e8c9b060" />
